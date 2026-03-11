@@ -14,6 +14,15 @@
         { "kanji": "弟", "reading": "おとうと", "meaning": "hermano menor" },
         { "kanji": "妹", "reading": "いもうと", "meaning": "hermana menor" },
         { "kanji": "先生", "reading": "せんせい", "meaning": "profesor, maestro (先: anterior, antes; 生: vida, nacer)" }
+        { "kanji": "子", "reading": "こ", "meaning": "niño, hijo" },
+        { "kanji": "夫", "reading": "おっと", "meaning": "esposo" },
+        { "kanji": "妻", "reading": "つま", "meaning": "esposa" },
+        { "kanji": "両親", "reading": "りょうしん", "meaning": "padres (両: ambos; 親: padre)" },
+        { "kanji": "祖父", "reading": "そふ", "meaning": "abuelo (祖: antepasado; 父: padre)" },
+        { "kanji": "祖母", "reading": "そぼ", "meaning": "abuela (祖: antepasado; 母: madre)" },
+        { "kanji": "子供", "reading": "こども", "meaning": "niño, niños (子: niño; 供: acompañar)" },
+        { "kanji": "彼", "reading": "かれ", "meaning": "él, novio" },
+        { "kanji": "彼女", "reading": "かのじょ", "meaning": "ella, novia (彼: él; 女: mujer)" }
       ]
     },
     {
@@ -23,7 +32,13 @@
         { "kanji": "医者", "reading": "いしゃ", "meaning": "médico (医: medicina; 者: persona)" },
         { "kanji": "店員", "reading": "てんいん", "meaning": "empleado de tienda (店: tienda; 員: miembro, empleado)" },
         { "kanji": "会社員", "reading": "かいしゃいん", "meaning": "empleado de empresa (会: reunión; 社: compañía; 員: miembro, empleado)" },
-        { "kanji": "学生", "reading": "がくせい", "meaning": "estudiante (学: estudio; 生: vida, nacer)" }
+        { "kanji": "学生", "reading": "がくせい", "meaning": "estudiante (学: estudio; 生: vida, nacer)" },
+        { "kanji": "看護師", "reading": "かんごし", "meaning": "enfermero/a (看: cuidar; 護: proteger; 師: maestro, especialista)" },
+        { "kanji": "教師", "reading": "きょうし", "meaning": "profesor (profesión) (教: enseñar; 師: maestro)" },
+        { "kanji": "社長", "reading": "しゃちょう", "meaning": "presidente de empresa (社: compañía; 長: líder, jefe)" },
+        { "kanji": "店長", "reading": "てんちょう", "meaning": "gerente de tienda (店: tienda; 長: líder)" },
+        { "kanji": "警察官", "reading": "けいさつかん", "meaning": "policía (警: alerta; 察: investigar; 官: oficial)" },
+        { "kanji": "料理人", "reading": "りょうりにん", "meaning": "cocinero (料: ingredientes; 理: razón, gestionar; 人: persona)" }
       ]
     },
     {
@@ -36,7 +51,13 @@
         { "kanji": "大学", "reading": "だいがく", "meaning": "universidad (大: grande; 学: estudio)" },
         { "kanji": "学生", "reading": "がくせい", "meaning": "estudiante (学: estudio; 生: vida, nacer)" },
         { "kanji": "先生", "reading": "せんせい", "meaning": "profesor, maestro (先: anterior, antes; 生: vida, nacer)" },
-        { "kanji": "本", "reading": "ほん", "meaning": "libro" }
+        { "kanji": "本", "reading": "ほん", "meaning": "libro" },
+        { "kanji": "勉強", "reading": "べんきょう", "meaning": "estudio (勉: esforzarse; 強: fuerte)" },
+        { "kanji": "教室", "reading": "きょうしつ", "meaning": "aula (教: enseñar; 室: habitación)" },
+        { "kanji": "授業", "reading": "じゅぎょう", "meaning": "clase, lección (授: otorgar, enseñar; 業: trabajo, actividad)" },
+        { "kanji": "試験", "reading": "しけん", "meaning": "examen (試: probar; 験: verificar)" },
+        { "kanji": "宿題", "reading": "しゅくだい", "meaning": "tarea (宿: alojarse; 題: tema, problema)" },
+        { "kanji": "図書館", "reading": "としょかん", "meaning": "biblioteca (図: mapa; 書: escribir, libro; 館: edificio)" }
       ]
     },
     {
@@ -56,7 +77,14 @@
         { "kanji": "毎日", "reading": "まいにち", "meaning": "todos los días (毎: cada; 日: día)" },
         { "kanji": "毎週", "reading": "まいしゅう", "meaning": "todas las semanas (毎: cada; 週: semana)" },
         { "kanji": "毎月", "reading": "まいつき", "meaning": "todos los meses (毎: cada; 月: mes)" },
-        { "kanji": "毎年", "reading": "まいとし", "meaning": "todos los años (毎: cada; 年: año)" }
+        { "kanji": "毎年", "reading": "まいとし", "meaning": "todos los años (毎: cada; 年: año)" },
+        { "kanji": "週", "reading": "しゅう", "meaning": "semana" },
+        { "kanji": "朝", "reading": "あさ", "meaning": "mañana (temprano)" },
+        { "kanji": "昼", "reading": "ひる", "meaning": "mediodía" },
+        { "kanji": "夜", "reading": "よる", "meaning": "noche" },
+        { "kanji": "時間", "reading": "じかん", "meaning": "tiempo, horas (時: hora; 間: intervalo)" },
+        { "kanji": "先週", "reading": "せんしゅう", "meaning": "la semana pasada (先: anterior; 週: semana)" },
+        { "kanji": "来週", "reading": "らいしゅう", "meaning": "la próxima semana (来: venir; 週: semana)" }
       ]
     },
     {
@@ -72,7 +100,14 @@
         { "kanji": "火", "reading": "ひ", "meaning": "fuego" },
         { "kanji": "木", "reading": "き", "meaning": "árbol" },
         { "kanji": "金", "reading": "かね", "meaning": "dinero, oro" },
-        { "kanji": "土", "reading": "つち", "meaning": "tierra, suelo" }
+        { "kanji": "土", "reading": "つち", "meaning": "tierra, suelo" },
+        { "kanji": "風", "reading": "かぜ", "meaning": "viento" },
+        { "kanji": "海", "reading": "うみ", "meaning": "mar" },
+        { "kanji": "森", "reading": "もり", "meaning": "bosque" },
+        { "kanji": "石", "reading": "いし", "meaning": "piedra" },
+        { "kanji": "花", "reading": "はな", "meaning": "flor" },
+        { "kanji": "星", "reading": "ほし", "meaning": "estrella" },
+        { "kanji": "太陽", "reading": "たいよう", "meaning": "sol (太: grande; 陽: sol, luz)" }
       ]
     },
     {
@@ -86,7 +121,13 @@
         { "kanji": "家", "reading": "いえ", "meaning": "casa" },
         { "kanji": "部屋", "reading": "へや", "meaning": "habitación (部: sección; 屋: habitación, edificio)" },
         { "kanji": "学校", "reading": "がっこう", "meaning": "escuela (学: estudio; 校: escuela)" },
-        { "kanji": "大学", "reading": "だいがく", "meaning": "universidad (大: grande; 学: estudio)" }
+        { "kanji": "大学", "reading": "だいがく", "meaning": "universidad (大: grande; 学: estudio)" },
+        { "kanji": "町", "reading": "まち", "meaning": "pueblo, barrio" },
+        { "kanji": "市", "reading": "し", "meaning": "ciudad" },
+        { "kanji": "公園", "reading": "こうえん", "meaning": "parque (公: público; 園: jardín)" },
+        { "kanji": "病院", "reading": "びょういん", "meaning": "hospital (病: enfermedad; 院: institución)" },
+        { "kanji": "銀行", "reading": "ぎんこう", "meaning": "banco (銀: plata; 行: ir, institución)" },
+        { "kanji": "図書館", "reading": "としょかん", "meaning": "biblioteca (図: mapa; 書: escribir; 館: edificio)" }
       ]
     },
     {
@@ -101,7 +142,12 @@
         { "kanji": "前", "reading": "まえ", "meaning": "delante, antes" },
         { "kanji": "後", "reading": "うしろ", "meaning": "detrás, después" },
         { "kanji": "間", "reading": "あいだ", "meaning": "entre, intervalo" },
-        { "kanji": "隣", "reading": "となり", "meaning": "al lado" }
+        { "kanji": "隣", "reading": "となり", "meaning": "al lado" },
+        { "kanji": "近く", "reading": "ちかく", "meaning": "cerca (近: cercano)" },
+        { "kanji": "遠く", "reading": "とおく", "meaning": "lejos (遠: distante)" },
+        { "kanji": "横", "reading": "よこ", "meaning": "lado" },
+        { "kanji": "向こう", "reading": "むこう", "meaning": "al otro lado (向: dirección)" },
+        { "kanji": "周り", "reading": "まわり", "meaning": "alrededor (周: circundar)" }
       ]
     },
     {
@@ -111,7 +157,12 @@
         { "kanji": "電車", "reading": "でんしゃ", "meaning": "tren eléctrico (電: electricidad; 車: vehículo)" },
         { "kanji": "駅", "reading": "えき", "meaning": "estación" },
         { "kanji": "飛行機", "reading": "ひこうき", "meaning": "avión (飛: volar; 行: ir; 機: máquina)" },
-        { "kanji": "自転車", "reading": "じてんしゃ", "meaning": "bicicleta (自: uno mismo; 転: girar; 車: vehículo)" }
+        { "kanji": "自転車", "reading": "じてんしゃ", "meaning": "bicicleta (自: uno mismo; 転: girar; 車: vehículo)" },
+        { "kanji": "地下鉄", "reading": "ちかてつ", "meaning": "metro (地: tierra; 下: debajo; 鉄: hierro)" },
+        { "kanji": "新幹線", "reading": "しんかんせん", "meaning": "tren bala (新: nuevo; 幹: tronco; 線: línea)" },
+        { "kanji": "空港", "reading": "くうこう", "meaning": "aeropuerto (空: cielo; 港: puerto)" },
+        { "kanji": "船", "reading": "ふね", "meaning": "barco" },
+        { "kanji": "バス", "reading": "バス", "meaning": "autobús" }
       ]
     },
     {
@@ -122,7 +173,13 @@
         { "kanji": "新聞", "reading": "しんぶん", "meaning": "periódico (新: nuevo; 聞: escuchar, noticia)" },
         { "kanji": "手紙", "reading": "てがみ", "meaning": "carta (手: mano; 紙: papel)" },
         { "kanji": "映画", "reading": "えいが", "meaning": "película (映: reflejar; 画: imagen)" },
-        { "kanji": "音楽", "reading": "おんがく", "meaning": "música (音: sonido; 楽: diversión, música)" }
+        { "kanji": "音楽", "reading": "おんがく", "meaning": "música (音: sonido; 楽: diversión, música)" },
+        { "kanji": "音", "reading": "おと", "meaning": "sonido" },
+        { "kanji": "歌", "reading": "うた", "meaning": "canción" },
+        { "kanji": "写真", "reading": "しゃしん", "meaning": "fotografía (写: copiar; 真: verdadero)" },
+        { "kanji": "旅行", "reading": "りょこう", "meaning": "viaje (旅: viaje; 行: ir)" },
+        { "kanji": "絵", "reading": "え", "meaning": "pintura, dibujo" },
+        { "kanji": "ゲーム", "reading": "ゲーム", "meaning": "videojuego" }
       ]
     },
     {
@@ -132,7 +189,14 @@
         { "kanji": "飲み物", "reading": "のみもの", "meaning": "bebida (飲: beber; 物: cosa)" },
         { "kanji": "お金", "reading": "おかね", "meaning": "dinero (金: oro, dinero)" },
         { "kanji": "円", "reading": "えん", "meaning": "yen" },
-        { "kanji": "水", "reading": "みず", "meaning": "agua" }
+        { "kanji": "水", "reading": "みず", "meaning": "agua" },
+        { "kanji": "米", "reading": "こめ", "meaning": "arroz (crudo)" },
+        { "kanji": "ご飯", "reading": "ごはん", "meaning": "arroz cocido, comida (飯: comida)" },
+        { "kanji": "肉", "reading": "にく", "meaning": "carne" },
+        { "kanji": "魚", "reading": "さかな", "meaning": "pescado" },
+        { "kanji": "野菜", "reading": "やさい", "meaning": "verduras (野: campo; 菜: vegetales)" },
+        { "kanji": "茶", "reading": "ちゃ", "meaning": "té" },
+        { "kanji": "店", "reading": "みせ", "meaning": "tienda" }
       ]
     },
     {
@@ -142,7 +206,12 @@
         { "kanji": "年", "reading": "とし", "meaning": "edad, año" },
         { "kanji": "出身", "reading": "しゅっしん", "meaning": "lugar de origen (出: salir; 身: cuerpo)" },
         { "kanji": "家族", "reading": "かぞく", "meaning": "familia (家: casa; 族: clan, familia)" },
-        { "kanji": "電話", "reading": "でんわ", "meaning": "teléfono (電: electricidad; 話: hablar)" }
+        { "kanji": "電話", "reading": "でんわ", "meaning": "teléfono (電: electricidad; 話: hablar)" },
+        { "kanji": "住所", "reading": "じゅうしょ", "meaning": "dirección (住: vivir; 所: lugar)" },
+        { "kanji": "国籍", "reading": "こくせき", "meaning": "nacionalidad (国: país; 籍: registro)" },
+        { "kanji": "仕事", "reading": "しごと", "meaning": "trabajo (仕: servir; 事: asunto)" },
+        { "kanji": "生年月日", "reading": "せいねんがっぴ", "meaning": "fecha de nacimiento (生: nacer; 年: año; 月: mes; 日: día)" },
+        { "kanji": "メール", "reading": "メール", "meaning": "correo electrónico" }
       ]
     }
   ]
